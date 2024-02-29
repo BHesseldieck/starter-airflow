@@ -22,3 +22,5 @@ This is the default Airflow repository to get you started for generating preview
 4. Once your pull request is merged your initial airflow application will be provisioned with latest code from the "main" branch.
 
 trigger preview on acr
+
+test
